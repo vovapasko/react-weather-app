@@ -94,7 +94,7 @@ const Home = () => {
         <br />
 
         <Button
-          text="today's weather"
+          text="Get the weather"
           style={customBtnStyle}
           className="brand-btn m-auto my-5 width-toggle"
           onClick={(event) => {
